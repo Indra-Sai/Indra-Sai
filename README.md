@@ -9,8 +9,8 @@
 <img src="./Img/github-header-banner.png">
 
 <!-- capsule render banner
-<img src="https://capsule-render.vercel.app/api?type=venom&&color=0:000733,50:3F0782,100:8541A4&height=300&section=header&text=Indra Sai &fontSize=90&fontColor=FCFFE7&animation=fadeIn"/> 
--->
+<img src="https://capsule-render.vercel.app/api?type=venom&&color=0:000733,50:3F0782,100:8541A4&height=300&section=header&text=Indra Sai &fontSize=90&fontColor=FCFFE7&animation=fadeIn"/>  -->
+
 
 ---
 
@@ -18,7 +18,6 @@
 
 <p>
   <!--Views Counter-->
-  <!-- <img src="https://komarev.com/ghpvc/?username=Indra-Sai&label=Visits&color=83D5FF&style=flat" alt="Indra-Sai" /> -->
   <img src="https://komarev.com/ghpvc/?username=Indra-Sai&label=Profile%20Views&color=9745F5&style=for-the-badge" alt="Indra-Sai-views" />
 
 </p>
@@ -29,7 +28,7 @@
   About Me
 </h1>
 
-<p>I’m a CSE student with a passion for both AI and web development. I love diving into new projects, whether it’s building intelligent models or designing cool websites. Always learning, experimenting, and excited to contribute to the open-source community. Let’s collaborate and create something awesome together!</p>
+<p>I’m a Computer Science and Engineering student working at the intersection of software engineering, machine learning, and networking. I build scalable backend systems and develop intelligent components that are designed to operate within real-world applications. My work emphasizes performance, reliability, and system-level efficiency rather than treating AI as an isolated layer. I enjoy solving problems that require strong software engineering fundamentals combined with data-driven intelligence. Through hands-on projects, I actively explore backend architecture, AI integration, and systems optimization to build robust and efficient solutions. I’m continuously learning and refining my skills by working on practical, engineering-focused challenges.!</p>
 
 <!--About me: end-->
 <br>
@@ -59,5 +58,4 @@
 </a>
 <br><br><br>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Indra-Sai&theme=dark)
 <!--Statistics: end-->
